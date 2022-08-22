@@ -4,9 +4,13 @@ B-bitly
 The tool is written in the latest python 3.10.</br>
 A framework of bitly.com
 Use this tool for advertisement and educational purposes only </br>
-Free for all🙂....ENJOY
+Free for all🙂....ENJOY</br>
+Free plan - 50 links monthly
 
-
+## Donate 
+```
+https://donorbox.org/bitly-free-go-premium-1
+```
 
 
 ## Installation procedure for android terminals( TERMUX )
@@ -14,16 +18,13 @@ Free for all🙂....ENJOY
 >> apt update
 >> pkg upgrade
 >> pkg install python
->> pip install python2
->> pkg install python3 
 >> pkg install ast
 >> pip install requests
->> pip3 install requests
->> pkg install mechanize
+>> pip install bitly_api
 >> pkg install git
->> git clone https://github.com/shade234sherif/bitly
->> cd bitly
->> python3 short.py
+>> git clone https://github.com/shade234sherif/bitly-free
+>> cd bitly-free
+>> python short.py [url]
 
 ```
 ## Installation for kali
@@ -36,7 +37,6 @@ Free for all🙂....ENJOY
 ## Features
 * Fancy logo
 * test output
-* Developer contact
 
 
 
