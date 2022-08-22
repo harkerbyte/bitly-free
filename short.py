@@ -39,7 +39,7 @@ import sys
 API_USER = "cyberneticsdev3"
 API_KEY = "efd964e5885b8848da704db07278140542f83ef6"
 
-b = bitlyapi.BitLy(API_USER, API_KEY)
+b = bitly_api.BitLy(API_USER, API_KEY)
 
 usage = """Usage: python short.py [url]
 e.g python shortener.py http://www.google.com"""
