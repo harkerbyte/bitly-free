@@ -33,7 +33,7 @@ To help shift to the premium features\n
 
 Break
 
-import bitlyapi
+import bitly_api
 import sys
 
 API_USER = "cyberneticsdev3"
