@@ -7,9 +7,6 @@ Use this tool for advertisement and educational purposes only </br>
 Free for all🙂....ENJOY</br>
 Free plan - 50 links monthly
 
-## Donate 
-
-https://donorbox.org/bitly-free-go-premium-1
 
 
 
@@ -27,6 +24,12 @@ https://donorbox.org/bitly-free-go-premium-1
 >> python short.py [url]
 
 ```
+
+## Issues Fix library
+
+   pip uninstall bitly_api</br>
+   git clone https://github.com/shade234sherif/bitly-api-python</br>
+
 ## Installation for kali
 ```
 * sudo git clone https://github.com/shade234sherif/bitly
