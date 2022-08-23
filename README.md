@@ -29,6 +29,7 @@ Free plan - 50 links monthly
 
    pip uninstall bitly_api</br>
    git clone https://github.com/shade234sherif/bitly-api-python</br>
+   now re-open and try to run
 
 ## Installation for kali
 ```
