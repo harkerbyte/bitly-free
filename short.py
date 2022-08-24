@@ -25,12 +25,6 @@ print("""\033[1;33m
 [+] FACEBOOK GROUP : facebook/groups/shade234sherif
 \033[2;33m""")
 
-print("""
-This software is said to be on a free plan\n
-users can only create 50lnks\monthly\n
-To help shift to the premium features\n
-[+]please make use of the socials provided to contact me.""" )
-
 Break
 
 import bitly_api
