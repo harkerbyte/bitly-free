@@ -50,9 +50,9 @@ Free plan - 50 links monthly
 
 ## Connect with me
 
-* https://facebook.com/cyberhacks6
-* whatsapp : +234 9155558315
-* FB MAIN ACC : https://facebook.com/shade234sherif
+
+* <a href=https://facebook.com/cyberhacks6>Facebook page</a>
+* <a href=https://facebook.com/shade234sherif>Main fb acc</a>
 
 ~~~
 Happy promotional campaigns (Just For social awareness).
